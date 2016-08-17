@@ -156,10 +156,10 @@ function setup() {
 function UpdateDOM(){       // Just additionally updated the Player information on the DOM as well.
     if(playerTurn == 'p1'){ 
         playerTurn = "p2";
-        $("#currentPlayer").html("Player 2");
+        $("#currentPlayer").html("Player 2 Turn");
     }else if(playerTurn == 'p2'){        
         playerTurn = "p1";
-        $("#currentPlayer").html("Player 1");
+        $("#currentPlayer").html("Player 1 Turn");
     }
 }
 
