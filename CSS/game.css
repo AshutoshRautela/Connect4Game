@@ -1,0 +1,43 @@
+#opponent{
+    /*position: absolute;*/
+    /*top: 2%;
+    right: 15%;*/
+    text-shadow: 2px 2px 2px burlywood;
+}
+
+#player{
+    /*position: absolute;*/
+    /*top: 22%;
+    right: 15%;*/
+    text-shadow: 2px 2px 2px burlywood;
+}
+
+
+#Board{
+    /*position: absolute;*/
+    /*top: 34%;
+    right: 15%;*/
+    text-shadow: 2px 2px 2px burlywood;
+}
+
+#secondaryInfo{
+    position: absolute;
+    top: 20%;
+    right: 10%;
+    /*margin-top: 100px;*/
+}
+
+#playerControls{
+    position: absolute;
+    top: 2%;
+    right: 20%;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 150%;
+}
+
+#winLooseDiv
+{
+    position: absolute;
+    bottom: 20%;
+    right: 20%;
+}
